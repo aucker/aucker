@@ -8,6 +8,6 @@
 - 📫 How to reach me aucker2020@gmail.com
 
 ![Aucker's GitHub stats](https://github-readme-stats.vercel.app/api?username=aucker&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aucker)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aucker&hide=jupyter%20notebook&exclude_repo=ML)
 
 * Language: Chinese | English
