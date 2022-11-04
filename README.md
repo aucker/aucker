@@ -1,6 +1,6 @@
 # :rocket: About me
 
-- 👋 Hi, I'm **Jiaqing An**.
+- 👋 Hi, I'm @aucker.
 - 🎓 Computer Science
 - 👀 I’m interested in Reading & Gaming.
 - 🌱 I’m currently learning `Rust` & `C++` & `DBMS`
