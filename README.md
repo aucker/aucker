@@ -2,7 +2,7 @@
 
 <!-- - 🎓 <del>Un</del>happy <del>dis</del>computational <del>non-</del>linguistics under~~do~~graduate @ PKU -->
 - 👋 Hi, I'm @aucker.
-- 🎓 Computer Science
+- 🎓 Computer Science and Technology
 - 👀 I’m interested in Reading & Gaming.
 - 🌱 I’m currently learning `Rust` & `C++` & `DBMS`
 - 💞️ I’m looking to collaborate on ...
